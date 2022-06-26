@@ -1,6 +1,9 @@
 # Gym Fitness Website
 
-[This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).](https://debasmitgym.netlify.app/)
+[To check the website you can select the link](https://debasmitgym.netlify.app/)
+
+## API Used 
+Rapid API
 
 ## Available Scripts
 
